@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/AI-ML/yolov8-Football-Data/Data/test/images
+val: /content/drive/MyDrive/AI-ML/yolov8-Football-Data/Data/valid/images
+
+nc: 4
+names: ['ball', 'goalkeeper', 'player', 'referee']
